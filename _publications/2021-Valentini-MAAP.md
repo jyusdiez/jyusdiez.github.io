@@ -6,7 +6,7 @@ permalink: /publication/2021-Valentini-MAAP
 date: 2020-10-20
 venue: 'Journal of Aerosol Science'
 excerpt: ''
-paperurl: 'https://amt.copernicus.org/articles/13/4353/2020/'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0021850220301865'
 citation: 'Valentini, S. et al., &quot;Applicability of benchtop multi-wavelength polar photometers to off-line measurements of the Multi-Angle Absorption Photometer (MAAP) samples &quot; <i>Journal of Aerosol Science </i>. 152 (2021).'
 ---
 
