@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 title: "About"
@@ -8,6 +9,8 @@ redirect_from:
   - /about.html
 
 ---
+-->
+
 <div class="container" style="margin-top: 3rem; margin-left: 10rem; margin-bottom: 3rem;">
 
   <!-- Profile picture -->
