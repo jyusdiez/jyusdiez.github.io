@@ -10,7 +10,6 @@
 
 @import
     "vendor/breakpoint/breakpoint",
-    "custom",
 
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
@@ -40,5 +39,7 @@
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
+    "vendor/font-awesome/brands",
+    
+    "custom"
 ;
