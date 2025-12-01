@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2020-Laj_et_al-GAW
 date: 2020-08-17
 venue: 'Atmospheric Measurement Techniques'
-exercept:'This paper is about..'
+excerpt:'This paper is about..'
 paperurl: 'https://amt.copernicus.org/articles/13/4353/2020/'
 citation: 'Laj, P et al., &quot;A global analysis of climate-relevant aerosol properties retrieved from the network of GAW near-surface observatories &quot; <i>Atmospheric Measurement Techniques </i>. 13, 4353–4392 (2020).'
 ---
