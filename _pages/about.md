@@ -10,11 +10,11 @@ redirect_from:
 ---
 
 <!-- Hero section -->
-<div class="about-hero" style="text-align: center; margin-bottom: 2rem;">
+<div class="about-hero" style="margin-bottom: 2rem;">
 
   <!-- Avatar -->
   {% if site.author.avatar %}
-    <img src="{{ site.baseurl }}/assets/images/{{ site.author.avatar }}" alt="{{ site.author.name }}" class="avatar">
+    <img src="{{ site.baseurl }}/images/{{ site.author.avatar }}" alt="{{ site.author.name }}" class="avatar">
   {% endif %}
 
   <!-- Name -->
