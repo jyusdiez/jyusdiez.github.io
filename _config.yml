@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_v3.jpeg"
+  avatar           : "profile_v2.jpeg"
   name             : "Jesús Yus-Díez"
   pronouns         : # example: "she/her"  
-  bio              : "I am interested in many things "
-  location         : "Aragón/Slovenija"
+  bio              : "Aerosols, Atmospheric Sciences, Climate "
+  location         : # "Aragón/Slovenija"
   employer         : "University of Nova Gorica"
   uri              : # URL
-  email            : "jesus.yus@ung.si" 
+  email            : "jesus.yus@ung.si"
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jyusdiez" # Username
+  linkedin         : "jyusdiez" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://twitter.com/jesusyusdiez" # Username for X / Twitter
+  twitter          : "jesusyusdiez" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -85,11 +85,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book Chapters'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conferences'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
