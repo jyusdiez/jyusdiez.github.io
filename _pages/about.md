@@ -8,36 +8,31 @@ redirect_from:
   - /about.html
 
 ---
+<div class="container" style="margin-top: 3rem; margin-bottom: 3rem;">
 
-<!-- Hero section -->
-<div style="text-align: center; margin-bottom: 2rem;">
-
-  <!-- Avatar (responsive) -->
-  {% if site.author.avatar %}
-    <img src="{{ site.baseurl }}/images/{{ site.author.avatar }}" 
-         alt="{{ site.author.name }}" 
-         style="width:25vw; max-width:150px; height:auto; border-radius:50%; margin-bottom:1rem;">
-  {% endif %}
+  <!-- Profile picture -->
+  <img src="{{ site.baseurl }}/images/profile.png" alt="{{ site.author.name }}" class="avatar" style="width:25vw; max-width:150px; height:auto; border-radius:50%; margin-bottom:1rem;">
 
   <!-- Name -->
-  <h1 style="font-size:4vw; max-font-size:2.5rem; font-weight:bold; margin-bottom:0.5rem;">
-    {{ site.author.name }}
-  </h1>
+  <h1>{{ site.author.name }}</h1>
 
-  <!-- Social links (icons only, horizontal) -->
-  <div style="margin-top:0.5rem; display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap;">
+  <!-- Short bio -->
+  <p>{{ site.author.bio }}</p>
+
+  <!-- Links (only show if defined in _config.yml) -->
+  <p>
     {% if site.author.github %}
-      <a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="ai ai-github ai-fw"></i></a>
-    {% endif %}
-    {% if site.author.linkedin %}
-      <a href="{{ site.author.linkedin }}" target="_blank"><i class="ai ai-linkedin ai-fw"></i></a>
-    {% endif %}
-    {% if site.author.twitter %}
-      <a href="{{ site.author.twitter }}" target="_blank"><i class="ai ai-twitter ai-fw"></i></a>
+      <a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-github"></i> GitHub</a>
     {% endif %}
     {% if site.author.orcid %}
-      <a href="{{ site.author.orcid }}" target="_blank"><i class="ai ai-orcid ai-fw"></i></a>
+      <a href="{{ site.author.orcid }}" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
     {% endif %}
-  </div>
+    {% if site.author.googlescholar %}
+      <a href="{{ site.author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+    {% endif %}
+    {% if site.author.linkedin %}
+      <a href="{{ site.author.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    {% endif %}
+  </p>
 
 </div>
