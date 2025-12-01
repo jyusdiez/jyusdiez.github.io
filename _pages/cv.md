@@ -22,7 +22,7 @@ Work experience
   * Duties includes: Black Carbon, absorbing organics and mineral dust absorption research, mentoring
   * Supervisor: Prof. Dr. Griša Močnik
 
-* Fall 2023 – Fall 2025: MSCA fellow
+* 2023 – 2025: MSCA fellow
   * University of Nova Gorica
   * Duties includes: Use and application of machine learning to better constrain the effects on climate of absorbing aerosols
   * Supervisor: Prof. Dr. Griša Močnik
