@@ -6,7 +6,7 @@ permalink: /publication/2019-07-paper-HOST-boundary-layer
 date: 2019-07-26
 venue: 'Atmospheric Chemistry and Physics'
 paperurl: 'https://acp.copernicus.org/articles/19/9495/2019/'
-citation: 'Yus-Díez, J. et al. &quot;Nocturnal boundary layer turbulence regimes analysis during the BLLAST campaign&quot; <i>Atmospheric Chemistry and Physics 19, 9495–9514 (2019) </i>.'
+citation: 'Yus-Díez, J. et al. &quot;Nocturnal boundary layer turbulence regimes analysis during the BLLAST campaign&quot; <i>Atmospheric Chemistry and Physics </i>. 19, 9495–9514 (2019).'
 ---
 
 A night-time turbulence regime classification, the so-called “HOckey-Stick Transition ” (HOST) theory, proposed by Sun et al. (2012) from the Cooperative Atmosphere–Surface Exchange Study-1999 (CASES-99) is explored using data from the Boundary-Layer Late Afternoon and Sunset Turbulence (BLLAST) field campaign which took place during summer 2011 in the central French Pyrenean foothills.
