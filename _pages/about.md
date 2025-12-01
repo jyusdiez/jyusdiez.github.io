@@ -12,7 +12,7 @@ redirect_from:
 <div class="container text-center" style="margin-top: 3rem; margin-bottom: 3rem;">
 
   <!-- Profile picture -->
-  <img src="{{ site.baseurl }}/assets/images/profile_v2.jpeg" alt="{{ site.author.name }}" class="avatar">
+  <img src="{{ site.baseurl }}/images/profile_v2.jpeg" alt="{{ site.author.name }}" class="avatar">
 
   <!-- Name -->
   <h1>{{ site.author.name }}</h1>
