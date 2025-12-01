@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_v3.jpeg"
   name             : "Jesús Yus-Díez"
   pronouns         : # example: "she/her"  
   bio              : "I am interested in many things "
