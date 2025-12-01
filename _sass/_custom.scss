@@ -1,11 +1,15 @@
 /* Make sidebar author name larger */
 .author__name {
     font-size: 1.6em !important;
-    font-weight: 700 !important;
+    font-weight: 450 !important;
    /* Prevent breaking at hyphens */
     word-break: keep-all;
     hyphens: none;
 
+}
+
+.author__name .surname {
+    font-weight: 700;
 }
 
 /* Make the sidebar wider */
