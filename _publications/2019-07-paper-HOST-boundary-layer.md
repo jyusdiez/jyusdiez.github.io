@@ -3,8 +3,8 @@ title: "Nocturnal boundary layer turbulence regimes analysis during the BLLAST c
 collection: publications
 category: manuscripts
 permalink: /publication/2019-07-paper-HOST-boundary-layer
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2019-07-26
+venue: 'Atmospheric Chemistry and Physics'
 paperurl: 'https://acp.copernicus.org/articles/19/9495/2019/'
 citation: 'Yus-Díez, J. (2019). &quot;Nocturnal boundary layer turbulence regimes analysis during the BLLAST campaign&quot; <i>Atmospheric Chemistry and Physics 1</i>. 1(2).'
 ---
