@@ -1,8 +1,12 @@
 ---
 layout: page
 title: "About"
-permalink: /about/
+permalink: /
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+
 ---
 
 <div class="container text-center" style="margin-top: 3rem; margin-bottom: 3rem;">
