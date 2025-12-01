@@ -2,12 +2,16 @@
 .author__name {
     font-size: 1.6em !important;
     font-weight: 700 !important;
+   /* Prevent breaking at hyphens */
+    word-break: keep-all;
+    hyphens: none;
+
 }
 
 /* Make the sidebar wider */
-$sidebar-link-max-width: 360px;  /* Increase from 250px to 350px */
+$sidebar-link-max-width: 350px;  /* Increase from 250px to 350px */
 
 /* Optional: adjust sidebar content width */
 .sidebar {
-    max-width: 360px;
+    max-width: 350px;
 }
