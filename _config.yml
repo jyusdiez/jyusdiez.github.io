@@ -26,8 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jesús Yus-Díez"
   pronouns         : # example: "she/her"  
-  bio              : "I am interested in 
-  "
+  bio              : "I am interested in "
   location         : "Aragón/Slovenija"
   employer         : "University of Nova Gorica"
   uri              : # URL
@@ -59,7 +58,6 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
