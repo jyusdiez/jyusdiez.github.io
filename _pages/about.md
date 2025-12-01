@@ -15,7 +15,9 @@ redirect_from:
   <img src="{{ site.baseurl }}/images/profile_v2.jpeg" alt="{{ site.author.name }}" class="avatar" style="height: 150px; width: auto;">
 
   <!-- Name -->
-  <h1>{{ site.author.name }}</h1>
+  <h1 style="font-size: 3rem; font-weight: bold; text-align: center;">
+    {{ site.author.name }}
+  </h1>
 
   <!-- Short bio -->
   <p>{{ site.author.bio }}</p>
@@ -37,3 +39,5 @@ redirect_from:
   </p>
 
 </div>
+
+
