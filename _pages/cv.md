@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Universitat de Barcelona, 2022
+* M.Sc. in Meteorology, Universitat de Barcelona, 2017
+* B.S. in Physics, Universidad de Zaragoza, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025 – : Associated Professor
+  * University of Nova Gorica
+  * Duties includes: Black Carbon, absorbing organics and mineral dust absorption research, mentoring
+  * Supervisor: Prof. Dr. Griša Močnik
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023 – Fall 2025: MSCA fellow
+  * University of Nova Gorica
+  * Duties includes: Use and application of machine learning to better constrain the effects on climate of absorbing aerosols
+  * Supervisor: Prof. Dr. Griša Močnik
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
+* 2018 - 2022: PhD Student
+  * Universitat de Barcelona / IDAEA-CSIC
+  * Duties included: data analysis, instrument operation, international network site maintenance and operation
   * Supervisor: Professor Git
   
 Skills
@@ -40,6 +40,14 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Languages
+======
+* Spanish (native)
+* English (proficent)
+* French (fluent)
+* Catalan (fluent)
+* Slovenian (basic)
 
 Publications
 ======
@@ -52,13 +60,15 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+-->
+Supervisor and mentoring roles
 ======
-* Currently signed in to 43 different slack teams
+* PhD students: Jordi Rovira (IDAEA-CSIC) and Sangita Gautam (University of Nova Gorica)
+* MsC student: Saš Močnik (University of Ljubljana)
