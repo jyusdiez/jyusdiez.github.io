@@ -24,7 +24,7 @@ repository               : "jyusdiez/jyusdiez.github.io"
 author:
   # Biographic information
   avatar           : "profile_v3.JPG"
-  name             : "Jesús Yus–Díez"
+  name             : "Jesús <span class='surname'>Yus-Díez</span>"
   pronouns         : # example: "she/her"  
   bio              : "Aerosols, Atmospheric Sciences, Climate "
   location         : # "Aragón/Slovenija"
