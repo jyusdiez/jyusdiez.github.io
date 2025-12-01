@@ -3,3 +3,11 @@
     font-size: 1.6em !important;
     font-weight: 700 !important;
 }
+
+/* Make the sidebar wider */
+$sidebar-link-max-width: 350px;  /* Increase from 250px to 350px */
+
+/* Optional: adjust sidebar content width */
+.sidebar {
+    max-width: 350px;
+}
