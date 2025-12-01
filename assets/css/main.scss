@@ -10,6 +10,7 @@
 
 @import
     "vendor/breakpoint/breakpoint",
+    "custom";
 
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
