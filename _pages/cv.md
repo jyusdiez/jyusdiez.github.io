@@ -41,12 +41,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C, CPP, ncl (advanced)
+  * R: base, tidyverse, ggpolot2 (advanced)
+  * Python and Jupiter notebook (advanced)
+  * GitHub environment (basic)
+  * Mie modelling (advanced)
+  * Inversion algorithms (advanced)
+  * LibRadtran (basic)
+  * UNIX/Linux OS
+* Software
+  * LaTeX, Microsoft Excel, Microsoft Word, etc
+  * Origin, pro Fit, Igor Pro
+* Atmospheric models
+    * Hysplit backtrajectories (advanced)
+    * WRF (basic)
 
 Languages
 ======
