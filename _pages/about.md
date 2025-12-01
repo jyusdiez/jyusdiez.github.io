@@ -6,5 +6,4 @@ redirect_from:
   - /about.html
 ---
 
-# About
 I am an aeros
