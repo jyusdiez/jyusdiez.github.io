@@ -34,9 +34,9 @@ Work experience
   * Tutor: Dr. Joan Bech
 
 * 2017-2018: Research associate
-* Universitat de Barcelona
-* Duties included: data analysis, manuscript writing
-* Supervisors: Dr. Maria Rosa Soler and Dr. Mireia Udina
+  * Universitat de Barcelona
+  * Duties included: data analysis, manuscript writing
+  * Supervisors: Dr. Maria Rosa Soler and Dr. Mireia Udina
 
   
 Skills
