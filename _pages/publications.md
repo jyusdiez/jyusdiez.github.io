@@ -30,4 +30,7 @@ author_profile: true
 ## 2020
 
 ## 2019
+* **Nocturnal boundary layer turbulence regimes analysis during the BLLAST campaign**
+  Yus-Díez, J., Udina, M., Soler, M. R., Lothon, M., Nilsson, E., Bech, J., and Sun, J.
+  Atmospheric Chemistry Physics, 19, 9495–9514 (2019). **https://doi.org/10.5194/acp-19-9495-2019**
 
