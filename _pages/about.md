@@ -48,3 +48,6 @@ redirect_from:
 </div>
 
 <!-- Rest of the page content -->
+# About
+
+I am an aerosol scientist and 
