@@ -6,7 +6,7 @@ permalink: /publication/2021-01-paper-instrumented-flights-optical
 excerpt: ''
 date: 2021-01-14
 venue: 'Atmospheric Chemistry and Physics'
-paperurl: 'https://acp.copernicus.org/articles/21/2675/2021/'
+paperurl: 'https://acp.copernicus.org/articles/21/431/2021/acp-21-431-2021.html'
 citation: 'Yus-Díez, J. et al. &quot;Aircraft vertical profiles during summertime regional and Saharan dust scenarios over the north-western Mediterranean basin: aerosol optical and physical properties&quot; <i>Atmospheric Chemistry and Physics </i>. 21, 431–455 (2021).'
 ---
 
