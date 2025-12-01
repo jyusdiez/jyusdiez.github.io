@@ -14,7 +14,7 @@ redirect_from:
 
   <!-- Avatar (responsive) -->
   {% if site.author.avatar %}
-    <img src="{{ site.baseurl }}/assets/images/{{ site.author.avatar }}" 
+    <img src="{{ site.baseurl }}/images/{{ site.author.avatar }}" 
          alt="{{ site.author.name }}" 
          style="width:25vw; max-width:150px; height:auto; border-radius:50%; margin-bottom:1rem;">
   {% endif %}
