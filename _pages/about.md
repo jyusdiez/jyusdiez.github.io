@@ -16,9 +16,6 @@ redirect_from:
   <!-- Name -->
   <h1 style="font-size: 3rem; font-weight: bold">{{ site.author.name }}</h1>
 
-  <!-- Short bio -->
-  <p>{{ site.author.bio }}</p>
-
   <!-- Links (only show if defined in _config.yml) -->
   <p>
     {% if site.author.github %}
@@ -34,6 +31,11 @@ redirect_from:
       <a href="{{ site.author.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
     {% endif %}
   </p>
+
+  <!-- Short bio -->
+  <p>{{ site.author.bio }}</p>
+
+
 
 </div>
 
