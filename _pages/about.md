@@ -36,3 +36,7 @@ redirect_from:
   </p>
 
 </div>
+
+# About
+
+I am an atmospheric scientist with a focus on aerosol particles. 
