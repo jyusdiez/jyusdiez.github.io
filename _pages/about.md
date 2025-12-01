@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 
 ---
-<div class="container" style="margin-top: 3rem; margin-left: 5rem; margin-bottom: 3rem;">
+<div class="container" style="margin-top: 3rem; margin-left: 10rem; margin-bottom: 3rem;">
 
   <!-- Profile picture -->
-  <img src="{{ site.baseurl }}/images/profile_v2.jpeg" alt="{{ site.author.name }}" class="avatar" style="width:25vw; max-width:150px; height:auto; border-radius:50%; margin-bottom:1rem;">
+  <img src="{{ site.baseurl }}/images/profile_v3.jpeg" alt="{{ site.author.name }}" class="avatar" style="height: 150px; width: auto;"> <!--style="width:25vw; max-width:150px; height:auto; border-radius:50%; margin-bottom:1rem;">,-->
 
   <!-- Name -->
-  <h1>{{ site.author.name }}</h1>
+  <h1 style="font-size: 5rem; font-weight: bold">{{ site.author.name }}</h1>
 
   <!-- Short bio -->
   <p>{{ site.author.bio }}</p>
