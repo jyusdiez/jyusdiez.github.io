@@ -30,7 +30,14 @@ Work experience
 * 2018 - 2022: PhD Student
   * Universitat de Barcelona / IDAEA-CSIC
   * Duties included: data analysis, instrument operation, international network site maintenance and operation
-  * Supervisor: Professor Git
+  * Supervisors: Dr. Andrés Alastuey and Dr. Marco Pandolfi
+  * Tutor: Dr. Joan Bech
+
+* 2017-2018: Research associate
+* Universitat de Barcelona
+* Duties included: data analysis, manuscript writing
+* Supervisors: Dr. Maria Rosa Soler and Dr. Mireia Udina
+
   
 Skills
 ======
