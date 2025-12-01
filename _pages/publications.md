@@ -1,4 +1,3 @@
-<!--
 ---
 layout: archive
 title: "Publications"
@@ -12,5 +11,5 @@ author_profile: true
 
 {% include base_path %}
 
+# 2025
 
--->
