@@ -40,7 +40,7 @@ html[data-theme="dark"] {
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
     --global-border-color               : #{$light-primary-color};
-    --global-dark-border-color          : none;
+    --global-dark-border-color          : transparent;
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-primary-color};
     --global-fig-caption-color          : #{$light-primary-color};
