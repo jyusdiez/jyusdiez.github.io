@@ -3,7 +3,7 @@ title: "Changes in black carbon emissions over Europe due to COVID-19 lockdowns"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-02-paper-covid-BC
-exercept: 'lfndv'
+excerpt: ''
 date: 2021-02-23
 venue: 'Atmospheric Chemistry and Physics'
 paperurl: 'https://acp.copernicus.org/articles/21/2675/2021/'
