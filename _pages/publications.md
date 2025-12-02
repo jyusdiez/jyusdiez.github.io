@@ -26,14 +26,16 @@ author_profile: true
 ## 2022
 
 ## 2021
-<div style="position: relative; display: inline-block;">
 <pre>
-* **Intercomparison and characterization of 23 Aethalometers under laboratory and ambient air conditions: procedures and unit-to-unit variabilities**<br>
-  Cuesta-Mosquera, A., Močnik, G., Drinovec, L., Müller, T., Pfeifer, S., Minguillón, M. C., Briel, B., Buckley, P., Dudoitis, V., Fernández-García, J., Fernández-Amado, M., Ferreira De Brito, J., Riffault, V., Flentje, H., Heffernan, E., Kalivitis, N., Kalogridis, A.-C., Keernik, H., Marmureanu, L., Luoma, K., Marinoni, A., Pikridas, M., Schauer, G., Serfozo, N., Servomaa, H., Titos, G., Yus-Díez, J., Zioła, N., and Wiedensohler, A.<br>
-  Atmospheric Measurement Techniques, 14, 3195–3216 (2021). **https://doi.org/10.5194/amt-14-3195-2021**
+* Aircraft vertical profiles during summertime regional and Saharan dust scenarios over the north-western Mediterranean basin: aerosol optical and physical properties
+  Yus-Díez, J., Ealo, M., Pandolfi, M., Perez, N., Titos, G., Močnik, G., Querol, X., and Alastuey, A.
+  Atmospheric Chemistry and Physics, 21, 431–455 (2021). https://doi.org/10.5194/acp-21-431-2021
 </pre>
-<button onclick="navigator.clipboard.writeText(document.querySelector('pre').innerText)">📋 Copy</button>
-</div>
+<button onclick="
+  const text = document.getElementById('pub1').innerText;
+  navigator.clipboard.writeText(text);
+  alert('Copied!');
+">📋 Copy</button>
 * **Determination of the multiple-scattering correction factor and its cross-sensitivity to scattering and wavelength dependence for different AE33 Aethalometer filter tapes: a multi-instrumental approach**<br> Yus-Díez, J., Bernardoni, V., Močnik, G., Alastuey, A., Ciniglia, D., Ivančič, M., Querol, X., Perez, N., Reche, C., Rigler, M., Vecchi, R., Valentini, S., and Pandolfi, M.<br> Atmospheric Measurement Techniques, 14, 6335–6355 (2021). **https://doi.org/10.5194/amt-14-6335-2021**
 
 * **Applicability of benchtop multi-wavelength polar photometers to off-line measurements of the Multi-Angle Absorption Photometer (MAAP) samples**<br> Sara Valentini, Vera Bernardoni, Ezio Bolzacchini, Davide Ciniglia, Luca Ferrero, Alice Corina Forello, Dario Massabó, Marco Pandolfi, Paolo Prati, Francesca Soldan, Gianluigi Valli, Jesús Yus-Díez, Andrés Alastuey, Roberta Vecchi<br> Journal of Aerosol Science, 152, 105701 (2021). **https://doi.org/10.1016/j.jaerosci.2020.105701**
