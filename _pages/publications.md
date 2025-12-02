@@ -13,8 +13,9 @@ author_profile: true
 
 <br>
 
-# Under Review or In Preparation
-=======
+Under Review or In Preparation
+======
+
 
 * **[Optical Properties and Shape-Dependent Complex Refractive Index Retrievals of Freshly Emitted Saharan Dust](https://doi.org/10.5194/egusphere-2025-2571)**<br>  Yus-Díez, J., Escribano, J., Pandolfi, M., Alastuey, A., González-Flórez, C., Gonzalez-Romero, A., Gonçalves Ageitos, M., Ivančič, M., Klose, M., Kandler, K., Obiso, V., Panta, A., Reche, C., Rigler, M., Querol, X., and Perez García-Pando, C.<br>
   EGUsphere [preprint], (2025). https://doi.org/10.5194/egusphere-2025-2571. _Unver Review_.
@@ -26,7 +27,7 @@ author_profile: true
   Gautam, S., Pandolfi, M., Pérez, N., Alastuey, A., Ivančič, M., Gregorič, A., Ježek Brecelj, I., Rigler, M., Drinovec, L., Močnik, G., and Yus-Díez, J.<br> _In preparation (2026)_
 
 
-# Published
+Published
 =======
 ## 2025
 
