@@ -5,6 +5,7 @@ author_profile: true
 ---
 <!-- title: "Dissemination" # I have removed this from the previous section for aesthetics purposes --> 
 
+{% include base_path %}
 
 Conferences and Workshops
 ======
