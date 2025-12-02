@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!--title: "CV"-->
+<!--title: "CV" # I have omitted from the last section for aesthetics-->
 
 {% include base_path %}
 
