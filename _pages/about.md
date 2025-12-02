@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an atmospheric scientist interested in optical and physicial properties of aerosol particles. My research includes the analysis of light-absorbing aerosols, mainly black carbon, organic particles (ambient and lab-generated) and mineral dsut. I have been involved in testing reference aerosol absorption techniques through photo-thermal interferometry and the developement of novel correction schemes using state-of-the art techniques and machine learning approaches.
+I am an atmospheric scientist interested in optical and physicial properties of aerosol particles. My research includes the analysis of light-absorbing aerosols, mainly black carbon, organic particles (ambient and lab-generated) and mineral dust. I have been involved in testing reference aerosol absorption techniques through photo-thermal interferometry and the developement of novel correction schemes using state-of-the art techniques and machine learning approaches.
 
 I received my **PhD in Physics** from the University of Barcelona in 2022, with a focus on the variability of optical properties of aerosol particles. Between 2018 and 2022 I was a PhD student at [IDAEA-CSIC](https://www.idaea.csic.es/research-group/environmental-geochemistry-and-atmospheric-research-egar/). There I studied the effects of the artefacts introduced by filter-photometers (AE33) for measuring absorption, and the absorbing characteristics of aerosols at the Mediterranean basin as well as from mineral dust from the Sahara.
 
