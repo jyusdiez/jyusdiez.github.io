@@ -16,19 +16,21 @@ author_profile: true
 # Under Review or In Preparation
 * **Optical Properties and Shape-Dependent Complex Refractive Index Retrievals of Freshly Emitted Saharan Dust**<br>
   Yus-Díez, J., Escribano, J., Pandolfi, M., Alastuey, A., González-Flórez, C., Gonzalez-Romero, A., Gonçalves Ageitos, M., Ivančič, M., Klose, M., Kandler, K., Obiso, V., Panta, A., Reche, C., Rigler, M., Querol, X., and Perez García-Pando, C.<br>
-  EGUsphere [preprint], (2025). **https://doi.org/10.5194/egusphere-2025-2571**
+  EGUsphere [preprint], (2025). **https://doi.org/10.5194/egusphere-2025-2571**. _Unver Review_.
+* **Validation of the ground and satellite lidar-derived aerosol light extinction coefficient with airborne in-situ measurements**<br> Bervida Mačak, M., Yus-Díez, J., Gautam, S., Drinovec, L., Jagodič, U., Žibert, B., Lenarčič, M., Marinou, E., Paschou, P., Siomos, N., Baars, H., Engelmann, R., Skupin, A., Floutsi, A. A., Fehr, T., and Močnik, G.<br> _In preparation_
+
 
 # Published
 
 ## 2025
 
-* **Unveiling single-particle composition, size, shape, and mixing state of freshly emitted Icelandic dust via electron microscopy analysis**<br>
+* **[Unveiling single-particle composition, size, shape, and mixing state of freshly emitted Icelandic dust via electron microscopy analysis](https://doi.org/10.5194/acp-25-10457-2025)**<br>
   Panta, A., Kandler, K., Schepanski, K., Alastuey, A., Dagsson Waldhauserova, P., Dupont, S., Eknayan, M., González-Flórez, C., González-Romero, A., Klose, M., Montag, M., Querol, X., Yus-Díez, J., and Pérez García-Pando, C.<br>
-  Atmospheric Chemistry and Physics, 25, 10457–10478 (2025). **https://doi.org/10.5194/acp-25-10457-2025**
+  Atmospheric Chemistry and Physics, 25, 10457–10478 (2025).https://doi.org/10.5194/acp-25-10457-2025.
 
-* **Characterization of filter photometer artifacts in soot and dust measurements – laboratory and ambient experiments using a traceably calibrated aerosol absorption reference**<br>
+* **[Characterization of filter photometer artifacts in soot and dust measurements – laboratory and ambient experiments using a traceably calibrated aerosol absorption reference](https://doi.org/10.5194/amt-18-3073-2025)**<br>
   Yus-Díez, J., Drinovec, L., Alados-Arboledas, L., Titos, G., Bazo, E., Casans, A., Patrón, D., Querol, X., Gonzalez-Romero, A., Perez García-Pando, C., and Močnik, G.<br>
-  Atmospheric Measurement Techniques, 18, 3073–3093 (2025). **https://doi.org/10.5194/amt-18-3073-2025**
+  Atmospheric Measurement Techniques, 18, 3073–3093 (2025). https://doi.org/10.5194/amt-18-3073-2025
 
 * **A European aerosol phenomenology – 9: Light absorption properties of carbonaceous aerosol particles across surface Europe**<br> Rovira, J., Savadkoohi, M., Chen, G. I., Močnik, G., Aas, W., Alados-Arboledas, L., Artiñano, B., Aurela, M., Backman, J., Banerji, S., Beddows, D., Brem, B., Chazeau, B., Collaud Coen, M., Colombi, C., Conil, S., Costabile, F., Coz, E., de Brito, J. F., Eleftheriadis, K., Pandolfi, M.<br> Environment International, 195, 109185 (January 2025). **https://doi.org/10.1016/j.envint.2024.109185**
 
