@@ -65,6 +65,12 @@ Languages
 * Catalan (fluent)
 * Slovenian (basic)
 
+Supervisor and mentoring roles
+======
+* PhD students: Jordi Rovira (IDAEA-CSIC) and Sangita Gautam (University of Nova Gorica)
+* MsC student: Saš Močnik (University of Ljubljana)
+
+
 <!--
 Publications
 ======
@@ -85,7 +91,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-Supervisor and mentoring roles
-======
-* PhD students: Jordi Rovira (IDAEA-CSIC) and Sangita Gautam (University of Nova Gorica)
-* MsC student: Saš Močnik (University of Ljubljana)
+
