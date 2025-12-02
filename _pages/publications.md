@@ -26,9 +26,11 @@ Under Review or In Preparation
 * **The heating rate of black carbon and desert dust in the regional atmosphere of the Western Mediterranean**<br>
   Gautam, S., Pandolfi, M., Pérez, N., Alastuey, A., Ivančič, M., Gregorič, A., Ježek Brecelj, I., Rigler, M., Drinovec, L., Močnik, G., and Yus-Díez, J.<br> _In preparation (2026)_
 
+<br>
 
 Published
 =======
+
 ## 2025
 
 * **[Unveiling single-particle composition, size, shape, and mixing state of freshly emitted Icelandic dust via electron microscopy analysis](https://doi.org/10.5194/acp-25-10457-2025)**<br>
