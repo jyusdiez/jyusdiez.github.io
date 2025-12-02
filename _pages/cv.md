@@ -65,6 +65,7 @@ Languages
 * Catalan (fluent)
 * Slovenian (basic)
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -76,7 +77,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-
+-->
 <!--
 Teaching
 ======
