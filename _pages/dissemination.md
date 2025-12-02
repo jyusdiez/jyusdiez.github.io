@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Dissemination"
 permalink: /dissemination/
 author_profile: true
 ---
-
+<!-- title: "Dissemination" # I have removed this from the previous section for aesthetics purposes --> 
 Conferences and Workshops
 ======
 
