@@ -234,7 +234,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  outreach:
+  dissemination:
     output: true
     permalink: /:collection/:path/
 
@@ -297,7 +297,7 @@ defaults:
   # _outreach
   - scope:
       path: ""
-      type: outreach
+      type: dissemination
     values:
       layout: single
       author_profile: true
