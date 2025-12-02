@@ -23,3 +23,17 @@ $sidebar-link-max-width: 350px;  /* Increase from 250px to 350px */
 .page-content {
     text-align: justify;
 }
+
+/* Normal links look like regular text */
+a:link,
+a:visited {
+  color: inherit;          /* same as your body text */
+  text-decoration: none;   /* optional: remove underline */
+}
+
+/* Links change color on hover/focus */
+a:hover,
+a:focus {
+  color: var(--global-link-color-hover); /* theme hover color */
+  text-decoration: underline;            /* optional visual cue */
+}
