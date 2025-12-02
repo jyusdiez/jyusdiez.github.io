@@ -37,3 +37,9 @@ a:focus {
   color: var(--global-link-color-hover); /* theme hover color */
   text-decoration: underline;            /* optional visual cue */
 }
+
+// Change active link in dark mode
+body.dark-mode .site-nav .active,
+body.dark-mode .site-nav .current_page_item {
+  color: $primary-color !important;
+}
