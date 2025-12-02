@@ -39,7 +39,20 @@ a:focus {
 }
 
 // Change active link in dark mode
+/* Active/current page link stays primary */
 body.dark-mode .site-nav .active,
 body.dark-mode .site-nav .current_page_item {
   color: $primary-color !important;
+}
+
+/* Also for hover/visited/focus states so it doesn’t change */
+body.dark-mode .site-nav .active:hover,
+body.dark-mode .site-nav .current_page_item:hover,
+body.dark-mode .site-nav .active:visited,
+body.dark-mode .site-nav .current_page_item:visited {
+  color: $primary-color !important;
+}
+/* Hover effect only for links that are NOT active */
+body.dark-mode .site-nav a:not(.active):not(.current_page_item):hover {
+  color: lighten($primary-color, 20%) !important; // or any highlight color
 }
