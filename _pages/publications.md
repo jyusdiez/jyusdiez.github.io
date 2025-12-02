@@ -96,9 +96,9 @@ Published Papers
 Theses
 ======
 
-* [Understanding the measurements and variability of aerosol optical properties in NE Spain
-](https://hdl.handle.net/2445/193136)<br> PhD Thesis, University of Barcelona (2022).
-* [Classification of the turbulent regimes within the Planetary Boundary Layer in complex orography environments]() <br> MSc in Meteorology, University of Barcelona (2017).
-* [Relajación clásica y cuántica de imanes moleculare](https://zaguan.unizar.es/record/59113?ln=es) <br> BSc in Physics, University of Zaragoza (2016).
+* **[Understanding the measurements and variability of aerosol optical properties in NE Spain
+](https://hdl.handle.net/2445/193136)**<br> PhD Thesis, University of Barcelona (2022).
+* **Classification of the turbulent regimes within the Planetary Boundary Layer in complex orography environments** <br> MSc in Meteorology, University of Barcelona (2017).
+* **[Relajación clásica y cuántica de imanes moleculare](https://zaguan.unizar.es/record/59113?ln=es)** <br> BSc in Physics, University of Zaragoza (2016).
 
 
