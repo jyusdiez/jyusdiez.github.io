@@ -13,7 +13,7 @@ author_profile: true
 
 <br>
 
-Under Review or In Preparation
+Papers Under Review or In Preparation
 ======
 
 
@@ -28,7 +28,7 @@ Under Review or In Preparation
 
 <br>
 
-Published
+Published Papers
 =======
 
 ## 2025
@@ -92,4 +92,13 @@ Published
 
 ## 2019
 * **[Nocturnal boundary layer turbulence regimes analysis during the BLLAST campaign](https://doi.org/10.5194/acp-19-9495-2019)**<br> Yus-Díez, J., Udina, M., Soler, M. R., Lothon, M., Nilsson, E., Bech, J., and Sun, J.<br> Atmospheric Chemistry Physics, 19, 9495–9514 (2019). **https://doi.org/10.5194/acp-19-9495-2019**
+
+Theses
+======
+
+* [Understanding the measurements and variability of aerosol optical properties in NE Spain
+](https://hdl.handle.net/2445/193136)<br> PhD Thesis, University of Barcelona (2022).
+* [Classification of the turbulent regimes within the Planetary Boundary Layer in complex orography environments]() <br> MSc in Meteorology, University of Barcelona (2017)
+*[Relajación clásica y cuántica de imanes moleculare](https://zaguan.unizar.es/record/59113?ln=es) <br> BSc in Physics, University of Zaragoza (2016)
+
 
