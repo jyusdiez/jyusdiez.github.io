@@ -19,22 +19,22 @@ Work experience
 ======
 * 2025 – : Associated Professor
   * Center for Atmospheric Researc, University of Nova Gorica
-  * Duties includes: Black Carbon, absorbing organics and mineral dust absorption research, mentoring
+  * Duties include: Black Carbon, absorbing organics and mineral dust absorption research, mentoring
 
 * 2023 – 2025: MSCA fellow
   * Center for Atmospheric Researc, University of Nova Gorica
-  * Duties includes: Use and application of machine learning to better constrain the effects on climate of absorbing aerosols
+  * Duties include: Use and application of machine learning to better constrain the effects on climate of absorbing aerosols
   * Supervisor: Prof. Dr. Griša Močnik
 
 * 2018 - 2022: PhD Student
   * Meteorology group, Universitat de Barcelona / EGAR group, IDAEA-CSIC
-  * Duties included: data analysis, instrument operation, international network site maintenance and operation
+  * Duties include: data analysis, instrument operation, international network site maintenance and operation
   * Supervisors: Dr. Andrés Alastuey and Dr. Marco Pandolfi
   * Tutor: Dr. Joan Bech
 
 * 2017-2018: Research associate
   * Meteorology group, Universitat de Barcelona
-  * Duties included: data analysis, manuscript writing
+  * Duties include: data analysis, manuscript writing
   * Supervisors: Dr. Maria Rosa Soler and Dr. Mireia Udina
 
   
