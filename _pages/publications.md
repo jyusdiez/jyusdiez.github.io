@@ -31,6 +31,11 @@ Papers Under Review or In Preparation
 Published Papers
 =======
 
+## 2026
+* **[Constraining the intensive absorption properties of ambient organic aerosol particles based on pan-European observations]([https://doi.org/10.5194/acp-25-10457-2025](https://doi.org/10.1038/s41612-026-01405-9))**<br>
+  Rovira, J., Yus-Díez, J., Chen, G. I., Močnik, G., Gysel-Beer, M., Aas, W., ... & Pandolfi, M.<br>
+  Atmospheric Chemistry and Physics, 25, 10457–10478 (2025).https://doi.org/10.5194/acp-25-10457-2025.
+
 ## 2025
 
 * **[Unveiling single-particle composition, size, shape, and mixing state of freshly emitted Icelandic dust via electron microscopy analysis](https://doi.org/10.5194/acp-25-10457-2025)**<br>
