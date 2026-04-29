@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* 2025 – : Associated Professor
+* 2026 – : Researcher at Haze Instruments d.o.o.
+  * 20% employed as part of the ARIS coufund Biwac project
+  * Duties include: project management, research, instrument testing and calibration
+* 2025 – : Associate Professor (*Docent*)
   * Center for Atmospheric Researc, University of Nova Gorica
   * Duties include: Black Carbon, absorbing organics and mineral dust absorption research, mentoring
 
