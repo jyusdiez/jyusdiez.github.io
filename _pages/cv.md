@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Physics, Universitat de Barcelona, 2022
 * M.Sc. in Meteorology, Universitat de Barcelona, 2017
-* B.S. in Physics, Universidad de Zaragoza, 2016
+* B.Sc. in Physics, Universidad de Zaragoza, 2016
 
 Work experience
 ======
