@@ -34,7 +34,7 @@ Published Papers
 ## 2026
 * **[Constraining the intensive absorption properties of ambient organic aerosol particles based on pan-European observations](https://doi.org/10.1038/s41612-026-01405-9)**<br>
   Rovira, J., Yus-Díez, J., Chen, G. I., Močnik, G., Gysel-Beer, M., Aas, W., ... & Pandolfi, M.<br>
-  npj Climate and Atmospheric Sciences (2026). https://doi.org/10.1038/s41612-026-01405-9
+  npj Climate and Atmospheric Sciences 9, 131 (2026). https://doi.org/10.1038/s41612-026-01405-9
 
 ## 2025
 
