@@ -16,9 +16,6 @@ author_profile: true
 Papers Under Review or In Preparation
 ======
 
-
-* **[Optical Properties and Shape-Dependent Complex Refractive Index Retrievals of Freshly Emitted Saharan Dust](https://doi.org/10.5194/egusphere-2025-2571)**<br>  Yus-Díez, J., Escribano, J., Pandolfi, M., Alastuey, A., González-Flórez, C., Gonzalez-Romero, A., Gonçalves Ageitos, M., Ivančič, M., Klose, M., Kandler, K., Obiso, V., Panta, A., Reche, C., Rigler, M., Querol, X., and Perez García-Pando, C.<br>
-  EGUsphere [preprint], (2025). https://doi.org/10.5194/egusphere-2025-2571. _Unver Review_.
 * **[Combustion Characteristics and Emission Factors of Trace Gases and Particulate Matter from Biomass Relevant to Canadian Wildfires: Overview of the 2024 BBCan Campaign](https://doi.org/10.22541/essoar.15002871/v1)**<br> Moraes, A. H., Talebian, S., Afroz, R., Al-Jabiri, M. H., Chan, A. W., Chang, R. Y. W., ..., Yus-Díez,J., ... & Zhao, R. <br>
 Journal of Geophysical Research - Atmospheres. https://doi.org/10.22541/essoar.15002871/v1. _Under Review_.
 * **Atmospheric heating by mineral dust particles over the Atlantic**<br>
@@ -34,6 +31,7 @@ Published Papers
 =======
 
 ## 2026
+* **[Optical properties and shape-dependent retrievals of the imaginary part of the refractive index of freshly emitted Saharan dust](https://acp.copernicus.org/articles/26/14531/2026/)**<br>  Yus-Díez, J., Escribano, J., Pandolfi, M., Alastuey, A., González-Flórez, C., Gonzalez-Romero, A., Gonçalves Ageitos, M., Ivančič, M., Klose, M., Kandler, K., Obiso, V., Panta, A., Reche, C., Rigler, M., Querol, X., and Perez García-Pando, C.<br>
 * **[Constraining the intensive absorption properties of ambient organic aerosol particles based on pan-European observations](https://doi.org/10.1038/s41612-026-01405-9)**<br>
   Rovira, J., Yus-Díez, J., Chen, G. I., Močnik, G., Gysel-Beer, M., Aas, W., ... & Pandolfi, M.<br>
   npj Climate and Atmospheric Sciences 9, 131 (2026). https://doi.org/10.1038/s41612-026-01405-9
